@@ -1,0 +1,13 @@
+D:\perl\vendor\lib\Email\MIME\Kit.pm
+D:\perl\vendor\lib\Email\MIME\Kit\Assembler\Standard.pm
+D:\perl\vendor\lib\Email\MIME\Kit\KitReader\Dir.pm
+D:\perl\vendor\lib\Email\MIME\Kit\ManifestReader\JSON.pm
+D:\perl\vendor\lib\Email\MIME\Kit\ManifestReader\YAML.pm
+D:\perl\vendor\lib\Email\MIME\Kit\Renderer\TestRenderer.pm
+D:\perl\vendor\lib\Email\MIME\Kit\Role\Assembler.pm
+D:\perl\vendor\lib\Email\MIME\Kit\Role\Component.pm
+D:\perl\vendor\lib\Email\MIME\Kit\Role\KitReader.pm
+D:\perl\vendor\lib\Email\MIME\Kit\Role\ManifestDesugarer.pm
+D:\perl\vendor\lib\Email\MIME\Kit\Role\ManifestReader.pm
+D:\perl\vendor\lib\Email\MIME\Kit\Role\Renderer.pm
+D:\perl\vendor\lib\Email\MIME\Kit\Role\Validator.pm
