@@ -1,0 +1,6 @@
+﻿  rsa_test.c
+D:\openssl_rsa_test\rsa_openssl_project\rsa_openssl_project\rsa_test.c(123,43): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      D:\openssl_rsa_test\rsa_openssl_project\rsa_openssl_project\rsa_test.c(123,43):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  
+  rsa_openssl_project.vcxproj -> D:\openssl_rsa_test\rsa_openssl_project\x64\Debug\rsa_openssl_project.exe
